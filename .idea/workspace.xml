@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb267a48-42e1-4070-a25c-4316dbf1c754" name="Changes" comment="initial xommit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LambdaCode/lambda_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaCode/lambda_function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,7 @@
       <workItem from="1700913132981" duration="5450000" />
       <workItem from="1701768778506" duration="9000" />
       <workItem from="1701929988946" duration="30000" />
-      <workItem from="1701930028554" duration="7948000" />
+      <workItem from="1701930028554" duration="8814000" />
     </task>
     <task id="LOCAL-00001" summary="initial xommit">
       <option name="closed" value="true" />
@@ -204,7 +203,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701944471717</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="initial xommit">
+      <option name="closed" value="true" />
+      <created>1701945292214</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1701945292214</updated>
+    </task>
+    <task id="LOCAL-00020" summary="initial xommit">
+      <option name="closed" value="true" />
+      <created>1701945550850</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1701945550850</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
