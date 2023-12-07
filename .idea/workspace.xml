@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fb267a48-42e1-4070-a25c-4316dbf1c754" name="Changes" comment="initial xommit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaCode/lambda_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaCode/lambda_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CFnServiceRole.json" beforeDir="false" afterPath="$PROJECT_DIR$/CFnServiceRole.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,11 +36,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Nilay Das/Downloads/LambdaCDDemo-master/LambdaCDDemo-master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,7 +55,10 @@
       <option name="presentableId" value="Default" />
       <updated>1700850284941</updated>
       <workItem from="1700850285963" duration="9191000" />
-      <workItem from="1700913132981" duration="2689000" />
+      <workItem from="1700913132981" duration="5450000" />
+      <workItem from="1701768778506" duration="9000" />
+      <workItem from="1701929988946" duration="30000" />
+      <workItem from="1701930028554" duration="1988000" />
     </task>
     <task id="LOCAL-00001" summary="initial xommit">
       <option name="closed" value="true" />
@@ -151,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700913674603</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="initial xommit">
+      <option name="closed" value="true" />
+      <created>1700915885043</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1700915885043</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
