@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb267a48-42e1-4070-a25c-4316dbf1c754" name="Changes" comment="initial xommit">
-      <change beforePath="$PROJECT_DIR$/LambdaCode/lambda_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaCode/lambda_function.py" afterDir="false" />
+    <list default="true" id="fb267a48-42e1-4070-a25c-4316dbf1c754" name="Changes" comment="2nd commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samTemplate.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/samTemplate.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
       <workItem from="1700913132981" duration="5450000" />
       <workItem from="1701768778506" duration="9000" />
       <workItem from="1701929988946" duration="30000" />
-      <workItem from="1701930028554" duration="9423000" />
+      <workItem from="1701930028554" duration="10526000" />
     </task>
     <task id="LOCAL-00001" summary="initial xommit">
       <option name="closed" value="true" />
@@ -227,7 +228,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701948817333</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="initial xommit">
+      <option name="closed" value="true" />
+      <created>1701949523975</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1701949523975</updated>
+    </task>
+    <task id="LOCAL-00023" summary="2nd commit">
+      <option name="closed" value="true" />
+      <created>1701949770698</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1701949770698</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +267,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial xommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial xommit" />
+    <MESSAGE value="2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
   </component>
 </project>

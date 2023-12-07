@@ -18,6 +18,9 @@ Resources:
           Properties:
             Path: /getazs
             Method: get
+        AutoPublishAlias: live
+        DeploymentPreference:
+          Type: Canary10Percent10Minutes
       Environment:
         Variables:
           REGION: us-east-1
