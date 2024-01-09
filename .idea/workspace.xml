@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb267a48-42e1-4070-a25c-4316dbf1c754" name="Changes" comment="4th commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LambdaCode/lambda_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/LambdaCode/lambda_function.py" afterDir="false" />
-    </list>
+    <list default="true" id="fb267a48-42e1-4070-a25c-4316dbf1c754" name="Changes" comment="5th commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +61,7 @@
       <workItem from="1702559485717" duration="612000" />
       <workItem from="1703093641208" duration="1499000" />
       <workItem from="1703664081282" duration="659000" />
-      <workItem from="1704811692452" duration="2686000" />
+      <workItem from="1704811692452" duration="3022000" />
     </task>
     <task id="LOCAL-00001" summary="initial xommit">
       <option name="closed" value="true" />
@@ -290,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704815096009</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="5th commit">
+      <option name="closed" value="true" />
+      <created>1704817845216</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1704817845216</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,6 +321,7 @@
     <MESSAGE value="2nd commit" />
     <MESSAGE value="3rd commit" />
     <MESSAGE value="4th commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="4th commit" />
+    <MESSAGE value="5th commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th commit" />
   </component>
 </project>
